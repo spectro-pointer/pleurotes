@@ -1,0 +1,7 @@
+pleurotes 548 82 140 90
+pleurotes 788 100 140 90
+pleurotes 196 156 140 90
+pleurotes 569 341 140 90
+pleurotes 570 341 140 90
+pleurotes 213 379 140 90
+pleurotes 598 586 140 90

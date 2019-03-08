@@ -1,0 +1,10 @@
+pleurotes 667 148 140 90
+pleurotes 366 151 140 90
+pleurotes 674 371 140 90
+pleurotes 675 371 140 90
+pleurotes 676 371 140 90
+pleurotes 677 371 140 90
+pleurotes 678 371 140 90
+pleurotes 679 371 140 90
+pleurotes 378 394 140 90
+pleurotes 691 523 140 90
